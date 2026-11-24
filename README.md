@@ -10,6 +10,8 @@ Computer Science (Cyber Security) student at **Asia Pacific University (APU)**, 
 ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ## Projects
@@ -23,6 +25,9 @@ All of these were group assignments at APU. Each README lists who built which pa
 | [Patient Data Analysis](https://github.com/xiulailai/array-vs-linked-list-patient-analysis) | The same hospital analysis written with a dynamic array and a linked list, comparing four sorting algorithms | C++ |
 | [APU Automotive Service Centre](https://github.com/xiulailai/APU-ASC_Assignment_Year2_Sem1) | Service centre system for managers, counter staff, technicians and customers | Java Swing |
 | [Internship Tracker System](https://github.com/xiulailai/InternshipTrackerSystem) | Internship process for students, company HR and supervisors | C#, WinForms, SQL Server |
+| [Smart Campus Event Management System](https://github.com/xiulailai/Smart-Campus-Event-Management-System) | Event booking with four roles, two-step approval and venue availability checks | Python |
+| [Shape Generator](https://github.com/xiulailai/assembly-shape-generator) | ASCII shape drawing written twice, in x86-64 assembly and in Python, to compare low-level and high-level code | NASM, Python |
+| [Linux Server Configuration Lab](https://github.com/xiulailai/linux-server-configuration-lab) | Rocky Linux and Ubuntu lab: DNS, DHCP, mail, web, VPN, Docker, Samba, MariaDB TLS, ClamAV, UFW and Fail2ban | Linux, Docker, Bash |
 
 ## Currently
 
